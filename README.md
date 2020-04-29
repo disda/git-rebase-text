@@ -1,3 +1,5 @@
-# git-rebase-text
+#git-rebase-text
+#feature
 test commit 1
 test commit 2
+test commit 3
